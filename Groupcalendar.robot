@@ -6,6 +6,7 @@ ${Browser}      Chrome
 ##If testing the app in heroku, make sure heroku server has already been awakened and change ${URL} accordingly
 ${URL}          http://localhost:8080
 ${Sleep}	    2
+#password for test user
 ${Password}    kayttaja
 
 
